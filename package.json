@@ -1,3 +1,13 @@
 {
-    "main": "./labelPrinter"
+  "name": "qqprinter",
+  "version": "0.0.2",
+  "description": "A nodejs package for printing under Windows framework net4.0.",
+  "main": "./labelPrinter",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/vanceeasleaf/qqprinter",
+  "keywords": ["printer", ".net4.0"],
+  "author": "Yang Zhou",
+  "license": "GPL2.0"
 }
