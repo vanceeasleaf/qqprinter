@@ -1,6 +1,6 @@
 {
   "name": "qqprinter",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A nodejs package for printing under Windows framework net4.0.",
   "main": "./labelPrinter",
   "scripts": {
