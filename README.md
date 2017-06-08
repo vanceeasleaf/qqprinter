@@ -1,5 +1,6 @@
 # qqprinter
 
+
 A nodejs package for printing labels under Windows framework net4.0
 
 > @Authour Yang Zhou
