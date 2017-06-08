@@ -1,5 +1,8 @@
 # qqprinter
 
+  <a href="https://www.npmjs.com/package/qqprinter"><img src="https://img.shields.io/npm/dm/qqprinter.svg" alt="Downloads"></a>
+  <a href="https://www.npmjs.com/package/qqprinter"><img src="https://img.shields.io/npm/v/qqprinter.svg" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/qqprinter"><img src="https://img.shields.io/npm/l/qqprinter.svg" alt="License"></a>
 
 A nodejs package for printing labels under Windows framework net4.0
 
